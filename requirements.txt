@@ -1,0 +1,4 @@
+# pip requirements
+matplotlib
+numpy
+opencv-python

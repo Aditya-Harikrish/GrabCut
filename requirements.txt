@@ -2,3 +2,6 @@
 matplotlib
 numpy
 opencv-python
+copy
+pymaxflow
+scikit-learn
